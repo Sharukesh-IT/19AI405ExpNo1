@@ -88,5 +88,9 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 
+# OUTPUT :
+<img width="471" height="87" alt="Screenshot 2026-10-22 084805" src="https://github.com/user-attachments/assets/71722d82-4fb9-4bf0-bc99-e62f6d8fbb47" />
+
+
 # Result :
 Thus the Developing Al Agent with PEAS Description was implemented using python programming
